@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/realvorl/procli/pkg"
+	"github.com/petcuvio/procli/pkg"
 	"github.com/spf13/cobra"
 )
 

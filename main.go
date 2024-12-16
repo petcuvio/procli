@@ -1,6 +1,6 @@
 package main
 
-import "github.com/realvorl/procli/cmd"
+import "github.com/petcuvio/procli/cmd"
 
 func main() {
 	cmd.Execute()
