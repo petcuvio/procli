@@ -1,4 +1,4 @@
-module github.com/petuvio/procli
+module github.com/petcuvio/procli
 
 go 1.22.2
 
